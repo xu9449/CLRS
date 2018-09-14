@@ -1,3 +1,4 @@
-# CLRS  
-## Ten pages a day   
-0913  
+# CLRS     
+P25 - P34 
+Insertion Sort  
+Mergesort  
